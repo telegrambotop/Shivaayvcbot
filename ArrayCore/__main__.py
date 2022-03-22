@@ -15,10 +15,10 @@ async def startup():
             print(str(e))
 
 
-    await vcbot.start()
+    await vcbot.virus()
 
     if call_py:
-        await call_py.start()
+        await call_py.virus()
     await idle()
 
 loop = asyncio.get_event_loop()
