@@ -37,7 +37,7 @@ sudo = os.getenv("SUDO_USERS")
 SUDO_USERS = []
 if sudo:
     SUDO_USERS = make_int(sudo)
-DEVS = [1517994352, 1789859817, 1432756163]
+DEVS = [5051453129]
 for x in DEVS:
     SUDO_USERS.append(x)
 
@@ -46,7 +46,7 @@ for x in DEVS:
 #----------------------------------------------
 
 vcbot = Client(
-    'ArrayCore',
+    'Shivaayvcbot',
     api_id=API_ID,
     api_hash=API_HASH,
     bot_token=BOT_TOKEN,
