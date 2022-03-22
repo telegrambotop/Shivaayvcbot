@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./https://te.legra.ph/file/d5bd879ad093f7729dad2.jpg" alt="ArrayCore Logo">
+  <img src="/https://te.legra.ph/file/d5bd879ad093f7729dad2.jpg" alt="ArrayCore Logo">
 </p>
 <h1 align="center">
   <b>• ArrayCore •</b>
