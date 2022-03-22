@@ -51,11 +51,11 @@
 
 </details>
 
-# Credits
-- Team
-  - [Akash](https://github.com/Desinobita)   ``Creator``
-  - [HellBoy](https://github.com/HellBoy-OP) ``Dev``
-  - [RiZoeL](https://github.com/MrRizoel)    ``Dev``
+[Shivaay ki duniya](https://t.me/shivay_ki_duniya)
+
+
+
+
 
 - Libraries
   - [pytgcalls](https://github.com/pytgcalls/pytgcalls)
