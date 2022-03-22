@@ -2,7 +2,7 @@
   <img src="https://te.legra.ph/file/d5bd879ad093f7729dad2.jpg" alt="shivaay Logo">
 </p>
 <h1 align="center">
-  <b>• ArrayCore •</b>
+  <b>• 𝙎𝙃𝙄𝙑𝘼𝘼𝙔𝙑𝘾-𝘽𝙊𝙏 •</b>
 </h1>
 
 # Features 
